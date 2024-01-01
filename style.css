@@ -12,6 +12,7 @@ body {
     margin-left: 150px;
     transition: 0.5s;
     margin-top: 30px;
+    left: 895px;
   }
   
   #yesButton {
@@ -19,6 +20,25 @@ body {
     margin-right: 150px;
     margin-top: 30px;
   }
+
+  form .numberbox {
+    margin: 35px;
+    padding: 5px;
+    width: 234px;
+    height: 30px;
+    border-radius: 50px;
+}
+ form .labelpo{
+  left: 35px;
+  position: relative;
+  top: 26px;
+  display: inline;
+}
+form .emailpo {
+  left: 600px;
+  top: 398px;
+  position: absolute;
+}
   
   .header_text {
     font-family: "Nunito";
